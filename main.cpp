@@ -1,7 +1,8 @@
-﻿#include <iostream>
+﻿include <iostream>
 using namespace std;
 int main()
 {
-    cout << "this is a demo App." << endl;
+	int sum =145;
+    cout << "this is a demo App." << sum << endl;
     
 }
