@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
-    cout << "this is a demo App." << endl;
+    double dSum = 45.6;
+    cout << "this is a demo App." << dSum << endl;
     
 }
