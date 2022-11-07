@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-only for testing, user1 modified the file on 2022/11/7 11:26
-=======
-only for testing
-
-it was modified by newuser based on old version.
->>>>>>> newuser
